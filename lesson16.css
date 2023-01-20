@@ -1,0 +1,62 @@
+*{
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bir{
+    position: relative;
+    left:500px ;
+    width: 400px;
+    height: 400px;
+    background-color: rgb(215, 19, 117);
+    border-radius: 100px;
+    background-image: linear-gradient(blue, red,  rgb(246, 87, 211),rgb(241, 187, 86));
+}
+.ikki{
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    width: 300px;
+    height: 300px;
+    background-color:rgb(240, 236, 242);
+    border-radius: 80px;
+
+}
+.uch{
+    position: absolute;
+    top: 12px;
+    left: 10px;
+    width: 260px;
+    height: 260px;
+    background-color:rgb(215, 19, 117);
+    border-radius: 75px;
+    background-image: linear-gradient( red, rgb(183, 169, 62),rgb(241, 157, 2));
+}
+.turt{
+    position: absolute;
+    top: 45px;
+    left: 50px;
+    width: 150px;
+    height: 150px;
+    background-color:rgb(240, 236, 242);
+    border-radius: 120px;
+}
+.besh{
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    width: 100px;
+    height: 100px;
+    background-color:rgb(215, 19, 117);
+    border-radius: 50px;
+    background-image: linear-gradient(rgb(209, 126, 244));
+}
+.nuqta{
+    position: absolute;
+    top: 12px;
+    right: 30px;
+    width: 30px;
+    height: 30px;
+    background-color:rgb(240, 236, 242);
+    border-radius: 30px;
+}
